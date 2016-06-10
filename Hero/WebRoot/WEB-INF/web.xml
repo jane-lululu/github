@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+  <display-name>HomeWork</display-name>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CenterController</servlet-name>
+    <servlet-class>cn.jane.web.controller.CenterController</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>cn.jane.web.controller.LoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RegisterDaoImplement</servlet-name>
+    <servlet-class>cn.jane.dao.impl.RegisterDaoImplement</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SucceedServlet</servlet-name>
+    <servlet-class>cn.jane.web.controller.SucceedServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ApplyTopic</servlet-name>
+    <servlet-class>cn.jane.web.controller.ApplyTopic</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>JavaLeader</servlet-name>
+    <servlet-class>cn.jane.web.controller.JavaLeader</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PhpLeader</servlet-name>
+    <servlet-class>cn.jane.web.controller.PhpLeader</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WebLeader</servlet-name>
+    <servlet-class>cn.jane.web.controller.WebLeader</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Javamember</servlet-name>
+    <servlet-class>cn.jane.web.controller.Javamember</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Phpmember</servlet-name>
+    <servlet-class>cn.jane.web.controller.Phpmember</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Webmember</servlet-name>
+    <servlet-class>cn.jane.web.controller.Webmember</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LeaderApply</servlet-name>
+    <servlet-class>cn.jane.web.controller.LeaderApply</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TestCenter</servlet-name>
+    <servlet-class>cn.jane.web.controller.TestCenter</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LeaderApplyPhp</servlet-name>
+    <servlet-class>cn.jane.web.controller.LeaderApplyPhp</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LeaderApplyWeb</servlet-name>
+    <servlet-class>cn.jane.web.controller.LeaderApplyWeb</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>MemberDo</servlet-name>
+    <servlet-class>cn.jane.web.controller.MemberDo</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PhpMemberDo</servlet-name>
+    <servlet-class>cn.jane.web.controller.PhpMemberDo</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WebMemberDo</servlet-name>
+    <servlet-class>cn.jane.web.controller.WebMemberDo</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TestServlet</servlet-name>
+    <servlet-class>cn.jane.web.controller.TestServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>MemberReply</servlet-name>
+    <servlet-class>cn.jane.web.controller.MemberReply</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AllInfo</servlet-name>
+    <servlet-class>cn.jane.web.formbean.AllInfo</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PersonServlet</servlet-name>
+    <servlet-class>cn.jane.web.controller.PersonServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>Devalution</servlet-name>
+    <servlet-class>cn.jane.web.controller.Devalution</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>History</servlet-name>
+    <servlet-class>cn.jane.web.controller.History</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>PersonalHistory</servlet-name>
+    <servlet-class>cn.jane.web.controller.PersonalHistory</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>DevalutionShow</servlet-name>
+    <servlet-class>cn.jane.web.controller.DevalutionShow</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>CenterController</servlet-name>
+    <url-pattern>/servlet/CenterController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/servlet/LoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RegisterDaoImplement</servlet-name>
+    <url-pattern>/servlet/RegisterDaoImplement</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SucceedServlet</servlet-name>
+    <url-pattern>/servlet/SucceedServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ApplyTopic</servlet-name>
+    <url-pattern>/servlet/ApplyTopic</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>JavaLeader</servlet-name>
+    <url-pattern>/servlet/JavaLeader</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PhpLeader</servlet-name>
+    <url-pattern>/servlet/PhpLeader</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WebLeader</servlet-name>
+    <url-pattern>/servlet/WebLeader</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Javamember</servlet-name>
+    <url-pattern>/servlet/Javamember</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Phpmember</servlet-name>
+    <url-pattern>/servlet/Phpmember</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Webmember</servlet-name>
+    <url-pattern>/servlet/Webmember</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LeaderApply</servlet-name>
+    <url-pattern>/servlet/LeaderApply</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TestCenter</servlet-name>
+    <url-pattern>/servlet/TestCenter</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LeaderApplyPhp</servlet-name>
+    <url-pattern>/servlet/LeaderApplyPhp</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LeaderApplyWeb</servlet-name>
+    <url-pattern>/servlet/LeaderApplyWeb</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>MemberDo</servlet-name>
+    <url-pattern>/servlet/MemberDo</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PhpMemberDo</servlet-name>
+    <url-pattern>/servlet/PhpMemberDo</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WebMemberDo</servlet-name>
+    <url-pattern>/servlet/WebMemberDo</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TestServlet</servlet-name>
+    <url-pattern>/servlet/TestServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>MemberReply</servlet-name>
+    <url-pattern>/servlet/MemberReply</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AllInfo</servlet-name>
+    <url-pattern>/servlet/AllInfo</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PersonServlet</servlet-name>
+    <url-pattern>/servlet/PersonServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Devalution</servlet-name>
+    <url-pattern>/servlet/Devalution</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>History</servlet-name>
+    <url-pattern>/servlet/History</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PersonalHistory</servlet-name>
+    <url-pattern>/servlet/PersonalHistory</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DevalutionShow</servlet-name>
+    <url-pattern>/servlet/DevalutionShow</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
